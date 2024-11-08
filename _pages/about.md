@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Allison Park | Linguistics & computational social science"
 author_profile: true
 redirect_from: 
   - /about/
